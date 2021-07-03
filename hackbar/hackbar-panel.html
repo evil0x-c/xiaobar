@@ -479,24 +479,22 @@
 
   <div class="row" id="boxrow">
         <div class="col-xs-3 col-sm-3 col-md-1 col-lg-1">
-            <button id="hackbar_loadurl" class="btn btn-block btn-primary-outline"><img src="img/load.png" alt="">
+            <!--
+            <button id="hackbar_loadurl" class="btn btn-block btn-primary-outline">
                 Lo<u>a</u>d URL
             </button>
-            <button id="hackbar_split" class="btn btn-block btn-primary-outline"><img src="img/split.gif" alt="">
+            -->
+            <!--<button id="hackbar_split" class="btn btn-block btn-primary-outline"><img src="img/split.gif" alt="">
                 Sp<u>i</u>t URL
-            </button>
-            <button id="hackbar_run" class="btn btn-block btn-primary-outline"><img src="img/web.png" alt="">
-                Execution
-            </button>
+            </button> -->
+         
+              <textarea spellcheck="false" id="load_request" cols="30" class="form-control"style="background:#272727;" rows="4" ></textarea><br>
         </div>
         <div class="col-xs-9 col-sm-9 col-md-11 col-lg-11">
-            <textarea spellcheck="false" id="hackbar_urlfield" cols="30" class="form-control" rows="4"></textarea><br>
+            <textarea spellcheck="false" id="hackbar_urlfield" cols="30" class="form-control"  rows="4"></textarea><br>
             <div class="form-group">
-                <input id="hackbar_enablepostdata" type="checkbox" value=""><label>Post Data</label>
-                <input id="hackbar_enablereferer" type="checkbox" value=""><label>Referrer</label>&nbsp;
-                                <label>Reverse</label>
-                 <a name="reverse"><img src="img/quick1.png"></a>
-                &nbsp;
+                <input id="hackbar_enablepostdata" type="checkbox" value=""><label>Repeater</label>&nbsp;
+                         
                 <a name="base64decode"><img src="img/quick2.png"></a>&nbsp;
                 <label>Base64</label>&nbsp;&nbsp;
                 <a name="base64encode"><img src="img/quick1.png"></a>&nbsp;
@@ -508,26 +506,29 @@
 				 <a name="chardecode"><img src="img/quick2.png"></a>&nbsp;
                 <label>CHAR</label>
                 <a name="charencode"><img src="img/quick1.png"></a>&nbsp;
-				
-                 <!--<label>SHA1</label>
-                <a name="sha1hash"><img src="img/quick1.png"></a>&nbsp;
-                <label>SHA256</label>
-                <a name="sha256hash"><img src="img/quick1.png"></a>&nbsp;
-                <label>ROT13</label>
-                <a name="rot13"><img src="img/quick1.png"></a>&nbsp;
-                   -->
-
-
-                
+				       <label>Reverse</label>
+                 <a name="reverse"><img src="img/quick1.png"></a>
+                &nbsp;
             </div>
         </div>
     </div>
 </div>
 </section>
 <section class="box-data">
-    <div id="hackbar_postdatacontainer" style="visibility: hidden" class="row boxrow">
+	 <div id="hackbar_postdatacontainer" style="visibility: hidden" class="row boxrow">
         <div class="col-xs-5 col-sm-4 col-md-1 col-lg-1">
-            <span class="basic">Post data</span>
+            <select id="method" class="form-control" style="height:30px;background:#272727;">   
+                <option value="Null" selected="selected">null</option>
+				  <option  value="GET">GET</option>
+				  <option  value="POST">POST</option>
+				  <option  value="HEAD">HEAD</option>
+				  <option  value="OPTONS">OPTONS</option>
+				  <option  value="PUT">PUT</option>
+				  <option  value="DELETE">DELETE</option>
+              </select>
+            <button id="hackbar_run" class="btn btn-block btn-primary-outline">
+                Send
+            </button>
         </div>
         <div class="col-xs-7 col-sm-8 col-md-11 col-lg-11 gold">
             <textarea spellcheck="false" id="hackbar_postdatafield" cols="30" class="form-control" rows="4"></textarea>

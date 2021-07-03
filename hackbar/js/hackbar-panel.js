@@ -5,14 +5,17 @@ var text2replacefield = document.getElementById("hackbar_text2replace");
 var replacementfield = document.getElementById("hackbar_replacement");
 
 /* ---------- main processs --------- */
-
+/* 
 var loadurlBtn = document.getElementById('hackbar_loadurl');
+
 var splitBtn = document.getElementById('hackbar_split');
+
 var executeBtn = document.getElementById('hackbar_run');
 
-var postdataCbx = document.getElementById("hackbar_enablepostdata");
-var refererCbx = document.getElementById("hackbar_enablereferer");
 
+var refererCbx = document.getElementById("hackbar_enablereferer");
+*/
+var postdataCbx = document.getElementById("hackbar_enablepostdata");
 var postdatacontainer = document.getElementById('hackbar_postdatacontainer');
 var referercontainer = document.getElementById('hackbar_referercontainer');
 
@@ -214,14 +217,16 @@ var plusBtn = document.getElementsByName("plus")[0];
 var minusBtn = document.getElementsByName("minus")[0];
 
 var currentFocusField = null;
-
+/*
 loadurlBtn.addEventListener("click", loadUrl, false);
+
 splitBtn.addEventListener('click', splitUrl);
+
 executeBtn.addEventListener('click', execute);
 
-postdataCbx.addEventListener('change', togglepostdata);
 refererCbx.addEventListener('change', togglereferer);
-
+*/
+postdataCbx.addEventListener('change', togglepostdata);
 urlfield.focus();
 currentFocusField = urlfield;
 anonClickMenuFunct = function (event) {
@@ -1474,7 +1479,7 @@ function loadUrl() {
             }
         );
 }
-
+/*
 function splitUrl() {
     var uri = currentFocusField.value;
     uri = uri.replace(new RegExp(/&/g), "\n&");
@@ -1482,7 +1487,7 @@ function splitUrl() {
     currentFocusField.value = uri;
     return true;
 }
-
+*/
 var typePostdata = "";
 
 function getPostData() {
