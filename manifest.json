@@ -1,0 +1,17 @@
+{
+  "description": "This hackbar moded by Mr.silent coder",
+  "manifest_version": 2,
+  "name": "Max HacKBar",
+  "version": "4.7",
+  "author": "Mr.silent coder",
+  "homepage_url": "http://youtube.com/mrsilentcoder",
+  "icons": {
+    "48": "icons/icon.png",
+    "64": "icons/icon.png"
+  },
+  "permissions": ["tabs", "activeTab", "webRequest", "webRequestBlocking", "<all_urls>"],
+  "devtools_page": "hackbar/hackbar.html",
+  "background": {
+    "scripts": ["background.js"]
+  }
+}

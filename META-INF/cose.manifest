@@ -1,0 +1,427 @@
+Manifest-Version: 1.0
+
+Name: background.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: mFkCO9JjiftJ08CtlPC3GAvW1k4=
+SHA256-Digest: YdaTJpGOfZ4nCP6vSpNqlEc/4mNcwa7+4L1aX3SYXhk=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 3RGLD4CilJ0O+oVnKTlnn6z01c4=
+SHA256-Digest: J5/9oC3bo71PZVhWwOUVMKeNNsRZoeavwt3B6bL6ZJE=
+
+Name: icons/icon.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 1SPBZzGpRjmNxzbIefNvdwIIB+k=
+SHA256-Digest: Ph6tUHd2OhUJMDCzVZR2lSE7GRcjSq6Yg4SqXr7y2S0=
+
+Name: hackbar/hackbar-panel.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: CGBU0S+7zaRUOUDF/JjZRqOmy3o=
+SHA256-Digest: Fs5WVlQ9qzr6+3l7waMzyIdceh+2TFU79Nszfgte4Uo=
+
+Name: hackbar/hackbar.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: PdQ7kxg/u16Zym+zKSIQC8a7B2M=
+SHA256-Digest: gFRJCS5uKhfiKN/fctAnMD9EX8Y9camkKdMDDQabnTc=
+
+Name: hackbar/css/bootstrap.min.css.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 4NeyveVaC6wbZYpQfoykkaZyngY=
+SHA256-Digest: tKNdGXk95EX0Yi9NKNsnnAJCtgIo7zBDQKrYM9ASp30=
+
+Name: hackbar/css/bootstrap.min.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ZSfYvz4ek2i6uMe2D1a8Afo6/Wg=
+SHA256-Digest: 916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w=
+
+Name: hackbar/css/light.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: /VQxw5rXK4V+LsgDQ0v1YkKM1Fk=
+SHA256-Digest: 2FC2H6YL8+yhiwTomVosKLYpT2L3KKURzLrekjtu4Ck=
+
+Name: hackbar/img/minus.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: EaXkxvvwG1wyQBBoAoXNv+qzAH0=
+SHA256-Digest: GUkuSzMVQxixJQ78BTrIoekzHBEHDXRbHmKcSwp13ZE=
+
+Name: hackbar/img/split.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 3HC/VHcamTDoZ1gfPqwuW9o5fCk=
+SHA256-Digest: /9SkAJMeFzFbmrk2OQR/u5kGFOajNxdePBZ5Co/MMUM=
+
+Name: hackbar/img/plus.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 8AkarvdzmlwMMTZjNxsqp0Hr7p4=
+SHA256-Digest: iZkTkbPx/Efyuw2OWoRN4caAUnuEiSOszjgm0/6q640=
+
+Name: hackbar/img/stripslashes.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: OUkoLOAcDcMVIO+x6LlxJSLpP7o=
+SHA256-Digest: rZMJkoI0UJo+HRr7sjtsQipgjpeQ9UVDZz16K7jRtAo=
+
+Name: hackbar/img/xss_alert.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: OFV1To/JMxxn3S0Hidny1ufaros=
+SHA256-Digest: AR9OM9hrRIB4or1WtwYHcLLAeehqrStymKsNshZ1jzQ=
+
+Name: hackbar/img/database_convert.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ba2NxMuTKkgyJkwW/VepI1wbN0U=
+SHA256-Digest: VvJ8pL47VE8bJagyExT3oAyNjG+chSIwl1ZrDsl2c9Y=
+
+Name: hackbar/img/downarrow2.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 6I9cTmWseiUmG1JkCVGjdnvfbB8=
+SHA256-Digest: 4ppb2CjhcT0ZDedFvXCC4QV3F+xxNlM83A7KrFrmIP0=
+
+Name: hackbar/img/database.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: KMlkJuRQiiHGPfVP4FfReZY5Jn8=
+SHA256-Digest: dRry+PVrL2ktqtYFVUJIJppGU7INKYvu95ilVvF9SGc=
+
+Name: hackbar/img/stripspaces.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: eeffzOTEwUmQy1nawQuHr4VGMWQ=
+SHA256-Digest: 3UxLOHzoPEiZnSAmn73j+0m++2+z4W4K4cq/ogLkw90=
+
+Name: hackbar/img/icon.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 1SPBZzGpRjmNxzbIefNvdwIIB+k=
+SHA256-Digest: Ph6tUHd2OhUJMDCzVZR2lSE7GRcjSq6Yg4SqXr7y2S0=
+
+Name: hackbar/img/quick2.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: S0WuGDUBxrB0QTb+t5EU3PF5JVU=
+SHA256-Digest: NGnbewgfxAYlhtFwe0NzBBr6M6HtEkOhjKW/isewgjU=
+
+Name: hackbar/img/uue.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Pcodb/5o0ho5QZcgZJajAaFKmlQ=
+SHA256-Digest: NCdlRyfNoj+bEj8xSo8hxuvgupTEgopNaRNcwdBIuDI=
+
+Name: hackbar/img/string.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: NdyL0gjoHEFsnK9BogTIVTx9CGU=
+SHA256-Digest: WV8v1W0T2vpiHQ5PjrubvK6Nqw7FN/cJVwyBYcdDl3g=
+
+Name: hackbar/img/urld.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: K2BvmWOFwEOS9TSKNJpET1wcziM=
+SHA256-Digest: xLDrYRsNR2Oh0SOte6dROl4yhaQaY93JhM9a1iRIpQs=
+
+Name: hackbar/img/database2.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: jwAV6MCea2vjYdx6EDmmoDiRdd4=
+SHA256-Digest: rE/0ZxMTDe+EGBaGVpjgfxg+81TMJhqFqAAUAd4Tnws=
+
+Name: hackbar/img/downarrow.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 94jtEF/LbPgI/XlQywNewYtTu70=
+SHA256-Digest: 2jTQYCe1uilJoHxuXIWjWjVXWQwXHlhfgEcZCO8YEf8=
+
+Name: hackbar/img/encryption.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: wetnhKHS7U3IviBXlN5QrMMUQBo=
+SHA256-Digest: Eu0OHP8LLuqZooqkceOqxeEf781WITMkmi0Aj4zm4M0=
+
+Name: hackbar/img/xss.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: nSRwxwcC+hVCJ2jlWI6u9EEnx+c=
+SHA256-Digest: 52atZlKN6LXUUxDnJ5Oat9GWFXNPnRP3rYt2NPnIkbs=
+
+Name: hackbar/img/web.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Hc3a4SCzVs1UJh4HxvCtAPtyrw0=
+SHA256-Digest: SFCKQvLz5Jr1uiMxC88hqbyoWtRgUUpL/uWysZO3tas=
+
+Name: hackbar/img/quick1.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: JnwxEbDCROqaRAgehwkKpDp9Mhs=
+SHA256-Digest: jgLAmJuqptLL40QfaUe0nilKU+qu7EINn+J1XycRhgY=
+
+Name: hackbar/img/uud.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: NgzCS3U60K+QyTWJuJYPJvPP0yc=
+SHA256-Digest: 757OBNuGxTavwfX/uV+4iktimj3C7Z8rnoOtn7rzHRg=
+
+Name: hackbar/img/encryption_weak.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: lsjk3uML6AwCPYBw3WCRJd/Zn6M=
+SHA256-Digest: nZPEu4eUD9DhJu+ilaUn/CmgcJiIdR4jZmib1jJ5f1A=
+
+Name: hackbar/img/load.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: jFwyiLF50xsPv+3dpm54677qC4I=
+SHA256-Digest: 12zqznolc65mntASHOJ7x6qk0WXmAJPBTepGLGB8IoI=
+
+Name: hackbar/img/urle.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 8WGfw5oYc7+KrBVExegUIYjJgG8=
+SHA256-Digest: AqpxByBtBOapOuSKJ0Q53+Z8uDBrOgdVQ089N44XPSg=
+
+Name: hackbar/img/hackbar_icon.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 1SPBZzGpRjmNxzbIefNvdwIIB+k=
+SHA256-Digest: Ph6tUHd2OhUJMDCzVZR2lSE7GRcjSq6Yg4SqXr7y2S0=
+
+Name: hackbar/img/addslashes.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: b+VaYR+dMOtz0cHOtjBxZP6SIAU=
+SHA256-Digest: 0ts9ycMCeSzJFUUeg5U5Iw0Ax0jTlMnWIYAxN3mEUIc=
+
+Name: hackbar/js/Encrypt.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: A/lou+oz1q/fH7yoblYp4kjenYk=
+SHA256-Digest: 7SxkINEG+e+HPlXdkJO9H/56rc/re0mKs21Sgn/H4IQ=
+
+Name: hackbar/js/hackbar-panel.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: DUikpXqof820IPgVDzfUSEn3IE0=
+SHA256-Digest: Z5HN0zGpw1lkCEK3Jw1hcm+YDAuSpgNTKBzv39QwNZQ=
+
+Name: hackbar/js/XSS.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 2ylPI/usJuIG/S+zF9BjaHYZBzo=
+SHA256-Digest: Fe7FkeaImL//LXG/bOVbD4MjCfxXp9jqOpL8snj2l90=
+
+Name: hackbar/js/jquery.min.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: DcMttKqcXwPzs4xH2IPb1P7ROq4=
+SHA256-Digest: FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=
+
+Name: hackbar/js/bootstrap.min.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: QwpEPXSDD+m+Ju/KQx9EjBs3QPk=
+SHA256-Digest: U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=
+
+Name: hackbar/js/SQL.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: v0BHkSHzyEDhMfonXKZ42l3fbXM=
+SHA256-Digest: POQOk4EM0ZcNE2URVSNqR38ibC8pL8jZ+43hVNENyeE=
+
+Name: hackbar/js/hackbar.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: lLEFwNopzaJL5W2hJVOjLje2XxM=
+SHA256-Digest: D044uUdMWvpCFiztnYAyM7ObvRajL/7Tuta58LwDnLs=
+
+Name: hackbar/js/MISC.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 6N9Gge95xZwofzRB7C0mdaHKWCg=
+SHA256-Digest: gqsS+/zu93Npx1DMRZcG7ZGa5c+iwJfSeOMdxVNeT/o=
+
+Name: hackbar/font/glyphicons-halflings-regular.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: RLwYUPVwlyJnsWmuGPHLBrYR/6I=
+SHA256-Digest: 45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY=
+
+Name: hackbar/font/glyphicons-halflings-regular.woff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: J45JqG5jTabyoC87R92dKo8mIQ8=
+SHA256-Digest: omOU9+3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I=
+
+Name: hackbar/font/glyphicons-halflings-regular.svg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 3lGoSUGAptsHSvLe4jg/CjY8Wwg=
+SHA256-Digest: QvYGWdJlwaPDD5+kKry7Vr1KU69Ng9MW1t16NpA8Q+U=
+
+Name: hackbar/font/glyphicons-halflings-regular.eot
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: hrb2K3hT5n0+Y19lEqWl78WOo8M=
+SHA256-Digest: E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc=
+
+Name: hackbar/font/glyphicons-halflings-regular.woff2
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: yjW2l9mcrk0bYPLWD803dxmH6wc=
+SHA256-Digest: /hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw=
+
+Name: hackbar/font/font-awesome-4.7.0/HELP-US-OUT.txt
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: T3v5YfG+1Ej2upmuuSGfq/kwupY=
+SHA256-Digest: MDTrsPfEKJZkj1MD40mc19/k2wEPlXj/RftCryiE7Ws=
+
+Name: hackbar/font/font-awesome-4.7.0/SanFranciscoText-Regular.otf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: mMzwdY923iwS3fEzlozWKSvEcTQ=
+SHA256-Digest: vVPw3SGDhr836QtkxYoDrAMKRWpGCIdFge6jIe8rBbw=
+
+Name: hackbar/font/font-awesome-4.7.0/scss/_stacked.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: z2dS7mCa826yk6cZfIjTHsrLvHQ=
+SHA256-Digest: cPM/0HmrcIWHxjtYhOBLMaP0b9M5I8sEZiH/GLG9mdI=
+
+Name: hackbar/font/font-awesome-4.7.0/scss/_animated.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ja8Ymy+KQESVuEJLb9G6Yw3Rwtw=
+SHA256-Digest: kA4lMcp1RPqPbg25mWvSjTlwGF7YEHF6Ckh52hNeVHg=
+
+Name: hackbar/font/font-awesome-4.7.0/scss/_variables.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: DW1wU1EEtC5g1/RK5sz53gI6e4s=
+SHA256-Digest: 8tBpoyNjOIg7wQtoKA4KLJZtrUFOJoQ/6no1FJ+V9k8=
+
+Name: hackbar/font/font-awesome-4.7.0/scss/_core.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VaFKNCZ+3EAbguXuQdi9hPu12j8=
+SHA256-Digest: 5ugZSbCsRmg5xSOaFFCWfsMq8w63wl0YRVaWIeihyPw=
+
+Name: hackbar/font/font-awesome-4.7.0/scss/_fixed-width.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: IkQXyiZsZXhJr7K7y23EVYlP84c=
+SHA256-Digest: uLCzR44E6GjvDNX6P7KRUk8ZMhRNG9NCfRVq/jaRlOk=
+
+Name: hackbar/font/font-awesome-4.7.0/scss/_larger.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: lA4cXrxpAoO/ruklYM8V+r7b9qk=
+SHA256-Digest: +06OfV0DB02kAvVE02vWrbatrtetgWxLyz9T/gMnPBc=
+
+Name: hackbar/font/font-awesome-4.7.0/scss/_path.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: CAFYrrG/bfWeyYsrvtRNph2cnKM=
+SHA256-Digest: DgNeIbvffxTxRT+hJqrznwtiR5Rx88umSaZN0tqlTiY=
+
+Name: hackbar/font/font-awesome-4.7.0/scss/_mixins.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: TziBA0pMEcrozJFfKIR3tJijV6I=
+SHA256-Digest: Lv48Zlxf7Mb7P2rN8YX9wLGHGtB0OB+jm1gcr8X6gs4=
+
+Name: hackbar/font/font-awesome-4.7.0/scss/_screen-reader.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: LYVjxIj2jnWijVQN2JMB7k7gjJc=
+SHA256-Digest: HJZMhNXsM/01kY8mDqNQOqqks/EJCzQqbpjbbQR9Xjg=
+
+Name: hackbar/font/font-awesome-4.7.0/scss/_list.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: S1PuAVE9+LnOdkQrLY8YUWE6Q1w=
+SHA256-Digest: 1UMKZpX+vNnn9YmAQa7StiBg0bjXt4Lg9JdSEKDd844=
+
+Name: hackbar/font/font-awesome-4.7.0/scss/_icons.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: gw4BgzN9FsB7HGODj3WToz7oexU=
+SHA256-Digest: qPG11qGhmSdIq5VBJEP7KK/Aq3Edhvvfp9igsAzuOkg=
+
+Name: hackbar/font/font-awesome-4.7.0/scss/_rotated-flipped.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ygigrz2mPC8qfTwnqHR2N3RMx4U=
+SHA256-Digest: /waG12rN41gdZ5vodPv3OovK5BEPp7bHqgirIEp/O3o=
+
+Name: hackbar/font/font-awesome-4.7.0/scss/_bordered-pulled.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: FktqCiswfNKT9KkUqw/N9kOVA3Q=
+SHA256-Digest: 0dKNQFuTKDE8hD98GkCVHuGnONYyCBvrdqDgcrQH9Uk=
+
+Name: hackbar/font/font-awesome-4.7.0/scss/font-awesome.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 3YNkjqW8gy+Hw8G/lWxU3sBlqb0=
+SHA256-Digest: TLSgDKCLbkVuCfL77s3FqxP3yRvL6iYzAMgUrvP/z0M=
+
+Name: hackbar/font/font-awesome-4.7.0/fonts/fontawesome-webfont.eot
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 2YDCzoc9xDr0YNTVctRBMESZ9AA=
+SHA256-Digest: e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=
+
+Name: hackbar/font/font-awesome-4.7.0/fonts/fontawesome-webfont.svg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: mKiqXPfWLC7/Xwft6NhEuHTvBu0=
+SHA256-Digest: rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q=
+
+Name: hackbar/font/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 1vSMun0Hb7by/Wupk6dbncHsvww=
+SHA256-Digest: Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=
+
+Name: hackbar/font/font-awesome-4.7.0/fonts/fontawesome-webfont.woff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: KLeCJAs+dtuCThLAJ1SpcxoWdSc=
+SHA256-Digest: ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=
+
+Name: hackbar/font/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: E7HqtlqYPHpzvHmXxHnWaUP3xss=
+SHA256-Digest: qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=
+
+Name: hackbar/font/font-awesome-4.7.0/fonts/FontAwesome.otf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: BIcHvFKsS2VjqqODv+hmCg3ckIw=
+SHA256-Digest: RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=
+
+Name: hackbar/font/font-awesome-4.7.0/css/font-awesome.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: AUCVLGTj8rdO9k4FDy/obqtmJMg=
+SHA256-Digest: NuCn4IvuZXdBaFKJOAcsU2Q3ZpwbdFisd5dux4jkQ5w=
+
+Name: hackbar/font/font-awesome-4.7.0/css/font-awesome.min.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: USx9eQM+MCipvmG1QM8aaHDIlvg=
+SHA256-Digest: eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=
+
+Name: hackbar/font/font-awesome-4.7.0/less/animated.less
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Qh8sThAZHxSME7ijTl/z9ITUw5M=
+SHA256-Digest: xwNUI9Wh4D02vP1kZUgeTE1ckfMW+oeKblEDr+Gwu/Y=
+
+Name: hackbar/font/font-awesome-4.7.0/less/stacked.less
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 8EQHe8i+GpicJFJU6B6whNUtKac=
+SHA256-Digest: P53mw+DxorxxV5pBfXxBX4Lyo9P0eSFhqFiLuL3XVFA=
+
+Name: hackbar/font/font-awesome-4.7.0/less/fixed-width.less
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 7AwkuXGE2rhhd2YPSGuNCM1jbEI=
+SHA256-Digest: DvhToxknQtIH6g55Pci8xjIty55Q1B9LmBxOusLax6w=
+
+Name: hackbar/font/font-awesome-4.7.0/less/larger.less
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 5xGegtxQVA28NHK7p9dCgoFafsw=
+SHA256-Digest: 38edQyWATpreIatlFFsjscQZPSSok2kLxHtcBznKPAo=
+
+Name: hackbar/font/font-awesome-4.7.0/less/path.less
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: GvtKhJBZYx927SpRnX+xvQrxSAI=
+SHA256-Digest: oNy7zTl29ZEWJowQl2fDuY/jWIcvbp/BoNJqM30nK48=
+
+Name: hackbar/font/font-awesome-4.7.0/less/font-awesome.less
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: n/50ItwjVFCiHwGfQQ7TWe0VH0s=
+SHA256-Digest: LfYjBaihTgnsrVihVaR48cjBExj0BTYL5oMhn2Kz6iQ=
+
+Name: hackbar/font/font-awesome-4.7.0/less/variables.less
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ilyAB0dwXfFhF8xZjBufUS6HO/4=
+SHA256-Digest: 43F0Ipdiktj9xLKp7QK40L5VrVC4bpv/dHYeXM+UuDk=
+
+Name: hackbar/font/font-awesome-4.7.0/less/core.less
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Gjc1IoZhm3idFRoG60t1UeTBqqI=
+SHA256-Digest: pKk9WYE09lasbHoKXzda+pQeceNI5o7PPNb+t2Fqz54=
+
+Name: hackbar/font/font-awesome-4.7.0/less/list.less
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 9TvCCIShQQ2VC0o2ozDFGBqLVas=
+SHA256-Digest: Akq7kw5mafIV3e4Z9YB3Vx8cq7eu4SdL+WsibClrc9M=
+
+Name: hackbar/font/font-awesome-4.7.0/less/icons.less
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: AoWpmesa2thoNmZ4wtk2W3cYakU=
+SHA256-Digest: TVhe7umPSCbFR+AwppBpDqVqTe3oBvyBdjQqvs0G/qE=
+
+Name: hackbar/font/font-awesome-4.7.0/less/rotated-flipped.less
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ld5d6QCXFGkkMLBPnNQ4i+j7qPM=
+SHA256-Digest: 1n35VIjuyE0tDK95cnglqP9LLfkMYEFReD4+wjiNrTg=
+
+Name: hackbar/font/font-awesome-4.7.0/less/screen-reader.less
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: cRORMvFw6+dxKDYhD00sSQUVGJk=
+SHA256-Digest: sy/3ghp7CmSfkgKgLuuM6I/mcetS1h7OUKq9vOIREMY=
+
+Name: hackbar/font/font-awesome-4.7.0/less/mixins.less
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: PFs2sAaTcrUl7Yu7z2s9TSvtTng=
+SHA256-Digest: ZcS7cTh3IEP6/SFnt0wP16wV5Xunh3rezeSwmSlQZww=
+
+Name: hackbar/font/font-awesome-4.7.0/less/bordered-pulled.less
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: osKSE3sXQGGDrQ/b9IgP1ki5pco=
+SHA256-Digest: 49FoopK6M9TjIVkZljowTcJXMqc8693m5+vk1Hq0PrY=
+
